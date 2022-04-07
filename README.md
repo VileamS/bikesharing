@@ -11,7 +11,7 @@ This Tableau story can be seen, in its entirety, [at this link](https://public.t
   . How much are the bikes used and by whom?
 ## results
 
-    While the demographics of Des Moines may be different from the make up of the citizenry of NYC, a cursory look at the makeup of CitiBike riders may shine light on who bikeshare might appeal to, regardless of locale.
+   While the demographics of Des Moines may be different from the make up of the citizenry of NYC, a cursory look at the makeup of CitiBike riders may shine light on who bikeshare might appeal to, regardless of locale.
     <img width="540" alt="nycCB_cust_descrip" src="https://user-images.githubusercontent.com/96033992/162105239-a8843288-e777-4e70-8ee2-542c0affe534.png">
     In the above image we can see that more than 3/4 of the users are Subscribers, who make regular use of the bikes and are a predictable source of income for the program. Bikeshare program users are also predominantly male, at approximately 5/8 to only about 1/4 female. The remaining 1/8 gender is unknown or undeclared.
     <img width="797" alt="nycCB_start_loc" src="https://user-images.githubusercontent.com/96033992/162105298-6391f267-7bda-4129-9a6d-15b277816f6a.png">
@@ -22,7 +22,7 @@ This Tableau story can be seen, in its entirety, [at this link](https://public.t
     A heatmap also helps show weekly usage patterns. Once again we can see the heavy bike usage during weekday commute times, and weekend usage is spread throughout the middle of the day. An interesting anomaly is the relatively low bike usage during Wednesday's end-of-day commute. It could be useful to explore reasons for this (system outage, Wednesday holidays in August, something less obvious?), but it could just be an arbitrary anomaly. Also, we can still see that low-usage time in the early morning hours, every day of the week.
 ## summary
 
-    In conclusion, bikeshare services are remarkably popular in busy metropolitan areas, where occupied real estate is densely packed and parking spaces may be scarce. The user base is made up mostly of male subscribers, providing regular income to the program. More outreach should be done to attract female riders, but male users seem a reliable market. And main usage seems focused around morning and evening commute times.
+   In conclusion, bikeshare services are remarkably popular in busy metropolitan areas, where occupied real estate is densely packed and parking spaces may be scarce. The user base is made up mostly of male subscribers, providing regular income to the program. More outreach should be done to attract female riders, but male users seem a reliable market. And main usage seems focused around morning and evening commute times.
 
 If I were to pursue additional lines of inquiry for analysis and visualization, given the data provided, I would explore:
 
